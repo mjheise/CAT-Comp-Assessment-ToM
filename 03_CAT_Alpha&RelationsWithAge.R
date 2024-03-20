@@ -1,10 +1,9 @@
 ####################################################
 ##                                                ##
 ##   Comprehensive Assessment of Theory of mind   ##
-##                CFAs for TOM                    ##      
 ##                                                ##
 ##                   MJ Heise                     ##
-##                February 2024                   ##
+##                  February 2024                 ##
 ##                                                ##
 ####################################################
 
